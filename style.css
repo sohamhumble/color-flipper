@@ -1,0 +1,17 @@
+/* body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#color-name{
+    background-color: black;
+    color: white;
+} */
+
+#middle-component{
+    background-color: black;
+    color: white;
+}
